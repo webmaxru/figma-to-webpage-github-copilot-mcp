@@ -102,6 +102,23 @@ You can see a complete example of these results in the `demo-result` folder of t
 - **Learning**: Study the generated code to improve your own skills
 - **Iteration**: Quickly implement design changes and updates
 
+## Resources
+
+Here are some key resources to help you get started with GitHub Copilot Agent Mode and Figma MCP integration:
+
+### GitHub Copilot Agent Mode
+
+- [GitHub Copilot Agent Mode Activated](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/) - Official announcement and overview of GitHub Copilot Agent Mode, explaining its capabilities and how it enhances the developer experience.
+
+### Model Context Protocol (MCP) Documentation
+
+- [VS Code MCP Servers Documentation](https://code.visualstudio.com/docs/copilot/chat/mcp-servers) - Official VS Code documentation on setting up and using MCP servers with GitHub Copilot.
+- [Extending GitHub Copilot with MCP](https://docs.github.com/en/copilot/customizing-copilot/extending-copilot-chat-with-mcp) - GitHub's official documentation on customizing Copilot with the Model Context Protocol.
+
+### Figma MCP Server
+
+- [Figma Context MCP Repository](https://github.com/GLips/Figma-Context-MCP/) - The official repository for the Figma Context MCP server that enables GitHub Copilot to access and analyze Figma designs.
+
 ## License
 
 This project is provided as a demonstration and is available under the [MIT License](LICENSE).
