@@ -4,6 +4,12 @@ This repository demonstrates how to use GitHub Copilot Agent Mode in combination
 
 > **Note:** The results of my own experiment with this approach can be found in the `demo-result` folder. Feel free to explore it for a real-world example of what can be achieved.
 
+## Video Tutorial
+
+[![Figma to HTML/CSS with GitHub Copilot - Video Tutorial](https://img.youtube.com/vi/1eZMmQ8_XkA/0.jpg)](https://www.youtube.com/watch?v=1eZMmQ8_XkA)
+
+Watch the complete setup and usage process walkthrough in this [YouTube video](https://www.youtube.com/watch?v=1eZMmQ8_XkA). The video demonstrates how to configure the Figma MCP server, connect it with GitHub Copilot Agent Mode, and convert a Figma design into code.
+
 ## Overview
 
 This project showcases the conversion of a Marketing Agency Landing Page from Figma into a responsive webpage using only HTML and CSS (no JavaScript). The implementation focuses on:
