@@ -8,7 +8,7 @@ This repository demonstrates how to use GitHub Copilot Agent Mode in combination
 
 [![Figma to HTML/CSS with GitHub Copilot - Video Tutorial](https://img.youtube.com/vi/1eZMmQ8_XkA/0.jpg)](https://www.youtube.com/watch?v=1eZMmQ8_XkA)
 
-Watch the complete setup and usage process walkthrough in this [YouTube video](https://www.youtube.com/watch?v=1eZMmQ8_XkA). The video demonstrates how to configure the Figma MCP server, connect it with GitHub Copilot Agent Mode, and convert a Figma design into code.
+Watch the complete setup and usage process walkthrough in this [YouTube video](https://www.youtube.com/watch?v=1eZMmQ8_XkA). The 10-minutes video demonstrates how to configure the Figma MCP server, connect it with GitHub Copilot Agent Mode, and convert a Figma design into code.
 
 ## Overview
 
@@ -83,7 +83,7 @@ figma-mcp/
 
 ## Results
 
-This approach resulted in a pixel-perfect implementation of the Figma design with additional enhancements:
+This approach resulted in an implementation of the Figma design with additional enhancements:
 
 - Smooth animations and transitions
 - Interactive hover effects
